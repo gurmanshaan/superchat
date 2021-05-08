@@ -24,6 +24,7 @@ function App() {
     <div className="App">
       <header>
         <h1>⚛️🔥💬</h1>
+        <h1>SUPER CHAT</h1>
         <SignOut />
       </header>
       <section>
